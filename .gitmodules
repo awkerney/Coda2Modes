@@ -1,0 +1,18 @@
+[submodule "Coda2-bash-mode"]
+	path = Bash.mode
+	url = https://github.com/wwjamieson3/Coda2-bash-mode.git
+[submodule "Bash.mode"]
+	path = Bash.mode
+	url = https://github.com/wwjamieson3/Coda2-bash-mode.git
+[submodule "Markdown.mode"]
+	path = Markdown.mode
+	url = https://github.com/bobthecow/Markdown.mode.git
+[submodule "Mustache.mode"]
+	path = Mustache.mode
+	url = https://github.com/bobthecow/Mustache.mode.git
+[submodule "Twig-HTML.mode"]
+	path = Twig-HTML.mode
+	url = https://github.com/muxx/Twig-HTML.mode.git
+[submodule "jade.mode"]
+	path = jade.mode
+	url = https://github.com/bluestrike2/jade.mode.git
