@@ -1,6 +1,3 @@
-[submodule "Coda2-bash-mode"]
-	path = Bash.mode
-	url = https://github.com/wwjamieson3/Coda2-bash-mode.git
 [submodule "Bash.mode"]
 	path = Bash.mode
 	url = https://github.com/wwjamieson3/Coda2-bash-mode.git
