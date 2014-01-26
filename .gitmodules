@@ -13,3 +13,6 @@
 [submodule "jade.mode"]
 	path = jade.mode
 	url = https://github.com/bluestrike2/jade.mode.git
+[submodule "Haml.mode"]
+	path = haml.mode
+	url = https://github.com/dreki/haml-mode-coda2.git
