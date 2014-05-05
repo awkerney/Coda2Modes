@@ -16,3 +16,6 @@
 [submodule "Haml.mode"]
 	path = haml.mode
 	url = https://github.com/dreki/haml-mode-coda2.git
+[submodule "CoffeeScript.mode"]
+	path = CoffeeScript.mode
+	url = git@github.com:caseywebdev/CoffeeScript.mode.git
