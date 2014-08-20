@@ -19,3 +19,6 @@
 [submodule "CoffeeScript.mode"]
 	path = CoffeeScript.mode
 	url = git@github.com:caseywebdev/CoffeeScript.mode.git
+[submodule "Apache Configuration"]
+	path = ApacheConfiguration.mode
+	url = git@github.com:zenangst/ApacheConf.mode.git
