@@ -22,3 +22,6 @@
 [submodule "Apache Configuration"]
 	path = ApacheConfiguration.mode
 	url = git@github.com:zenangst/ApacheConf.mode.git
+[submodule "Handlebars.mode"]
+	path = Handlebars.mode
+	url = git@github.com:Cargo/Handlebars.mode.git
